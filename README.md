@@ -2,7 +2,7 @@
 ## Lab3
 ### Build, Test and Publish Artefacts for a Java-Maven Application
 
-![Screenshot 4](Screenshot%202025-09-27%20202746.png)
-![Screenshot 5](Screenshot%202025-09-27%20202839.png)
-![Screenshot 6](Screenshot%202025-09-27%20202858.png)
-![Screenshot 7](Screenshot%202025-09-28%20003802.png)
+![Screenshot 1](./Screenshoots/Screenshot%202025-09-27%20202746.png)
+![Screenshot 2](./Screenshoots/Screenshot%202025-09-27%20202839.png)
+![Screenshot 3](./Screenshoots/Screenshot%202025-09-27%20202858.png)
+![Screenshot 4](./Screenshoots/Screenshot%202025-09-28%20003802.png)
