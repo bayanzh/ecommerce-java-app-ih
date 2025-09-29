@@ -2,7 +2,6 @@ name: Continuous Integration Pipeline with SonarQube
 
 on: workflow_dispatch
 
-# Define permissions for the workflow
 permissions:
   contents: read
   actions: read
@@ -34,6 +33,7 @@ jobs:
 
       - name: Install jest-junit
         run: npm i --save-dev jest-junit
+
       - name: Run unit tests with coverage and JUnit reports
         run: |
           JEST_JUNIT_OUTPUT_DIR=coverage \
